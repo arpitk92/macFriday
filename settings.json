@@ -1,0 +1,1 @@
+{"name": "FridayAI", "microphone": {"default_device_id": 1, "sample_rate": 48000, "chunk_size": 2048}, "voice": {"default": "alex", "name": "Friday"}}
