@@ -19,10 +19,7 @@ The work for linux and windows based is on the way
 
 - [Installation](#installation)
 - [Features](#features)
-- [Contributing](#contributing)
 - [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
 - [License](#license)
 
 
